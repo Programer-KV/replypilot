@@ -11,7 +11,8 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://replypilot-ozxu.onrender.com"
+
 
 
 # ==================== CUSTOM CSS ====================
